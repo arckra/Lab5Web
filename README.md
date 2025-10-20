@@ -1,7 +1,6 @@
-# Lab5Web
 # Praktikum 5: Javascript
 
-Pengenalan javascript
+**Pengenalan javascript**
 
 ```html
 <!DOCTYPE html>
@@ -21,6 +20,11 @@ Pengenalan javascript
 ```
 <img width="398" height="175" alt="image" src="https://github.com/user-attachments/assets/b56a2b62-5367-475a-97df-fb9aac5b3980" />
 
+---
+
+**Javascript dasar**
+
+Pemakaian Alert sebagai property window
 
 ```html
 <html>
@@ -39,6 +43,9 @@ Pengenalan javascript
 
 <img width="511" height="242" alt="image" src="https://github.com/user-attachments/assets/e797a48d-0cb4-4d8a-87c5-6ac66e05ee89" />
 
+---
+
+Pemakaian method dalam objek
 ```html
 <html>
 <head>
@@ -58,6 +65,9 @@ Pengenalan javascript
 
 <img width="246" height="86" alt="image" src="https://github.com/user-attachments/assets/53e56a7b-930a-4818-a32d-d9a421038714" />
 
+---
+
+Pemakaian Prompt
 ```html
 <html>
 <head>
@@ -77,6 +87,9 @@ Pengenalan javascript
 
 <img width="369" height="102" alt="image" src="https://github.com/user-attachments/assets/f036115e-11b3-4fc3-ab13-0bf513c6f035" />
 
+---
+
+Pembuatan fungsi dan cara pemanggilannya
 ```html
 <html>
 <head>
@@ -94,6 +107,11 @@ Pengenalan javascript
 
 <img width="519" height="203" alt="image" src="https://github.com/user-attachments/assets/9fc0b339-9146-4c2a-9e31-289f6df4d13d" />
 
+---
+
+**Dasar pemrograman Di Javascript**
+
+Operasi dasar Aritmatika
 ```html
 <html>
 <head>
@@ -122,6 +140,9 @@ Pengenalan javascript
 
 <img width="185" height="223" alt="image" src="https://github.com/user-attachments/assets/5d7d79e8-b4b5-462f-b053-deab65f2f842" />
 
+---
+
+Seleksi kondisi(if..else)
 ```html
 <html>
 <head>
@@ -158,6 +179,9 @@ Hasilnya:
 
 <img width="317" height="101" alt="image" src="https://github.com/user-attachments/assets/32dcbaf4-c4d6-4925-9b72-8a3bf6bfd6ff" />
 
+---
+
+Penggunaan operator switch untuk seleksi kondisi
 ```html
 <html>
 <head>
@@ -199,6 +223,11 @@ Hasilnya:
 
 <img width="169" height="96" alt="image" src="https://github.com/user-attachments/assets/78317831-3163-4fcc-846e-a427ff92cc24" />
 
+---
+
+**Pembuatan Form**
+
+Form Input
 ```html
 <html>
 <head>
@@ -226,6 +255,9 @@ Hasilnya:
 
 <img width="564" height="152" alt="image" src="https://github.com/user-attachments/assets/09c8c611-93f9-410e-b87c-1577f82b5b36" />
 
+---
+
+Form Button
 ```html
 <html>
 <head>
@@ -263,6 +295,10 @@ Hasilnya:
 
 <img width="536" height="213" alt="image" src="https://github.com/user-attachments/assets/df2ca39c-d4c9-4c26-adb4-3e2ed6d6d4cb" />
 
+---
+
+# HTML DOM
+**Pilihan menggunakan checkkbox dengan perhitungan otomatis**
 ```html
 <html>
 <head>
@@ -295,6 +331,7 @@ function hitung(ele) {
 ```
 <img width="349" height="130" alt="image" src="https://github.com/user-attachments/assets/b2ef821a-64bd-41d8-b668-6421706050f6" />
 
+---
 
 # Pertanyaan dan Tugas
 1. Buat script untuk melakukan validasi pada isian form.
