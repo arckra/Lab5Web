@@ -230,7 +230,7 @@ Proses Pertama:
 
 <img width="102" height="70" alt="image" src="https://github.com/user-attachments/assets/e23d092c-a2f0-4677-a5ce-8ee23326bff4" />
 
-Proses Keua:
+Proses Kedua:
 
 <img width="499" height="245" alt="image" src="https://github.com/user-attachments/assets/bac1527a-3b8d-4fc8-8686-2b0d833a3a21" />
 
