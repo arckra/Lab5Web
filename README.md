@@ -18,6 +18,8 @@
 </body>
 </html>
 ```
+Hasil:
+
 <img width="398" height="175" alt="image" src="https://github.com/user-attachments/assets/b56a2b62-5367-475a-97df-fb9aac5b3980" />
 
 ---
@@ -40,6 +42,7 @@ Pemakaian Alert sebagai property window
 </body>
 </html>
 ```
+Hasil:
 
 <img width="511" height="242" alt="image" src="https://github.com/user-attachments/assets/e797a48d-0cb4-4d8a-87c5-6ac66e05ee89" />
 
@@ -62,6 +65,7 @@ Pemakaian method dalam objek
 </body>
 </html>
 ```
+Hasil:
 
 <img width="246" height="86" alt="image" src="https://github.com/user-attachments/assets/53e56a7b-930a-4818-a32d-d9a421038714" />
 
@@ -85,6 +89,8 @@ Pemakaian Prompt
 ```
 <img width="503" height="295" alt="image" src="https://github.com/user-attachments/assets/906e6185-c88d-4f47-962e-4b07045f6693" />
 
+Hasilnya:
+
 <img width="369" height="102" alt="image" src="https://github.com/user-attachments/assets/f036115e-11b3-4fc3-ab13-0bf513c6f035" />
 
 ---
@@ -104,6 +110,7 @@ Pembuatan fungsi dan cara pemanggilannya
 </body>
 </html>
 ```
+Hasil:
 
 <img width="519" height="203" alt="image" src="https://github.com/user-attachments/assets/9fc0b339-9146-4c2a-9e31-289f6df4d13d" />
 
@@ -137,6 +144,8 @@ Operasi dasar Aritmatika
 </html>
 ```
 <img width="102" height="42" alt="image" src="https://github.com/user-attachments/assets/7d843f89-8c13-4faf-af43-b02f983efb74" />
+
+Hasilnya:
 
 <img width="185" height="223" alt="image" src="https://github.com/user-attachments/assets/5d7d79e8-b4b5-462f-b053-deab65f2f842" />
 
@@ -217,9 +226,15 @@ Penggunaan operator switch untuk seleksi kondisi
 </html>
 ```
 
+Proses Pertama:
+
 <img width="102" height="70" alt="image" src="https://github.com/user-attachments/assets/e23d092c-a2f0-4677-a5ce-8ee23326bff4" />
 
+Proses Keua:
+
 <img width="499" height="245" alt="image" src="https://github.com/user-attachments/assets/bac1527a-3b8d-4fc8-8686-2b0d833a3a21" />
+
+Hasil Akhir:
 
 <img width="169" height="96" alt="image" src="https://github.com/user-attachments/assets/78317831-3163-4fcc-846e-a427ff92cc24" />
 
@@ -250,8 +265,13 @@ Form Input
 </body>
 </html>
 ```
+Hasil:
+
+Bila input bilangan genap:
 
 <img width="570" height="126" alt="image" src="https://github.com/user-attachments/assets/a04fc000-65eb-474f-96c0-c00cb75609ad" />
+
+Bila input bilangan ganjil:
 
 <img width="564" height="152" alt="image" src="https://github.com/user-attachments/assets/09c8c611-93f9-410e-b87c-1577f82b5b36" />
 
@@ -291,7 +311,13 @@ Form Button
 </html>
 ```
 
+Hasil:
+
+Apabila menggunakan latar belakang berwarna hijau, dan teks berwarna kuning
+
 <img width="581" height="319" alt="image" src="https://github.com/user-attachments/assets/91c8c426-875d-4a51-a5ea-3b73b972a611" />
+
+Apabila menggunakan latar belakang berwarna putih, dan teks berwarna biru
 
 <img width="536" height="213" alt="image" src="https://github.com/user-attachments/assets/df2ca39c-d4c9-4c26-adb4-3e2ed6d6d4cb" />
 
@@ -329,6 +355,9 @@ function hitung(ele) {
 </body>
 </html>
 ```
+
+Hasil:
+
 <img width="349" height="130" alt="image" src="https://github.com/user-attachments/assets/b2ef821a-64bd-41d8-b668-6421706050f6" />
 
 ---
